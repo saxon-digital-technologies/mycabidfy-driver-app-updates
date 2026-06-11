@@ -1,5 +1,5 @@
 {
-  "RemoteOTAVersion": "1",
+  "RemoteOTAVersion": "34",
   "androidBundleUrl": "https://github.com/saxon-digital-technologies/mycabidfy-driver-app-updates/releases/download/3.5.66.9/index.android.bundle.zip",
   "iosBundleUrl": "https://github.com/saxon-digital-technologies/mycabidfy-driver-app-updates/releases/download/3.5.66.9/main.jsbundle.zip"
 }
